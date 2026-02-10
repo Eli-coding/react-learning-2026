@@ -1,16 +1,38 @@
-# React + Vite
+# React Learning Journey - 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Goal
+Build React skills over 12 weeks to land a frontend developer role in Pennsylvania.
 
-Currently, two official plugins are available:
+## Week 1: React Fundamentals (Feb 9-15, 2026)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Day 1 - Monday, Feb 9 ✅
+**What I Built:**
+- Created first Vite + React project
+- Built `Greeting` component that accepts `name` prop
+- Learned how to reuse components with different data
 
-## React Compiler
+**What I Learned:**
+- How to create a React functional component
+- How props pass data to components
+- How JSX lets you write HTML-like syntax in JavaScript
+- How Vite provides instant hot-reload during development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Challenges:**
+- Finding source files in VS Code (figured it out!)
+- Understanding what Vite does (it's the dev server!)
+- Git warnings about line endings (learned they're harmless!)
 
-## Expanding the ESLint configuration
+**Next:** Build Button, Card, and UserProfile components on Thursday
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Commitment
+8 hours/week for 12 weeks  
+Start: February 9, 2026  
+Goal: Frontend developer job by summer 2026
+
+## Progress
+- [x] Day 1: First component with props
+- [ ] Day 2: Multiple component types
+- [ ] Day 3: Lists and mapping
+- [ ] Day 4: Product card project
